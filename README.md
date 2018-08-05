@@ -1,1 +1,3 @@
-# projDex
+# ProjDex (C) 2018
+
+# **THIS FILE IS PRIVATE**
